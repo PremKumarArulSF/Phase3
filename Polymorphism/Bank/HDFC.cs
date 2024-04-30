@@ -1,0 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Bank
+{
+    public class HDFC :BankClass
+    {
+        public override double GetIntersetInfo()
+        {
+            return Math.Round(7.5/100,2);
+        }
+    }
+}

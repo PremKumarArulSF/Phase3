@@ -1,0 +1,15 @@
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\bin\Debug\net7.0\StudentInfo.exe
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\bin\Debug\net7.0\StudentInfo.deps.json
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\bin\Debug\net7.0\StudentInfo.runtimeconfig.json
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\bin\Debug\net7.0\StudentInfo.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\bin\Debug\net7.0\StudentInfo.pdb
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\StudentInfo.csproj.AssemblyReference.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\StudentInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\StudentInfo.AssemblyInfoInputs.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\StudentInfo.AssemblyInfo.cs
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\StudentInfo.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\refint\StudentInfo.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\StudentInfo.pdb
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\StudentInfo.genruntimeconfig.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Phase3\PartialClass\StudentInfo\obj\Debug\net7.0\ref\StudentInfo.dll
